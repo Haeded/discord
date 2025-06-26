@@ -15,4 +15,4 @@ It is intended for **personal use** only. You can use, download or modify it if 
 To install the library using pip:
 
 ```bash
-pip install git+https://github.com/Haeded/dis.git
+pip install git+https://github.com/Haeded/discord.git
